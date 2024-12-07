@@ -1,0 +1,16 @@
+{
+  "name": "greet-gourav",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "upper-case": "^3.0.0"
+  }
+}
